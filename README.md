@@ -1,1 +1,3 @@
-# Mobile-Game-Beginner-Guides
+# Mobile Game Beginner Guides
+In this [Mobile game beginner guides](https://onepagegamer.com), we’ll take a look at the basics of the game, its main features and how to get started easily. During a standard match, 2 teams featuring 5 players compete against each other on a map with 3 lanes and jungle areas in between.
+Because there are a number of different development kits with which you can make mobile games, we tried to spread the love. We’ve compiled some tutorials featuring different development toolkits and languages–when you find the software or language you prefer to use, you can focus your own tutorial search with that criteria.
